@@ -61,8 +61,26 @@ button {
   height: 40px;
   border: none;
 }
+.art1 {
+  padding-top: 50px;
+}
+.art1 p {
+  padding-top: 10px;
+}
+.art2 {
+  padding-top: 22px;
+}
+.art2 p {
+  padding-top: 10px;
+}
 .testimonianze {
   background-color: #e22d0e;
+}
+.art2 img {
+  border-radius: 50%;
+  width: 275px;
+  height: 275px;
+  padding-top: 5px;
 }
 footer {
   color: #c8e7f0;
