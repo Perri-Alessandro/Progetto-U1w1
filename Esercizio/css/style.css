@@ -122,17 +122,50 @@ button {
   padding-bottom: 12px;
 }
 .art6 {
-  padding-top: 60px;
+  padding-top: 55px;
 }
 .art6 p {
+  padding-top: 10px;
+}
+.art7 img {
+  width: 330px;
+  padding-bottom: 12px;
+}
+.art7 {
+  padding-top: 60px;
+}
+.art7 p {
+  padding-top: 10px;
+}
+.art8 img {
+  width: 330px;
+  padding-bottom: 12px;
+}
+.art8 {
+  padding-top: 60px;
+  margin-bottom: 70px;
+}
+.art8 p {
   padding-top: 10px;
 }
 footer {
   color: #c8e7f0;
   background-color: #25a2c3;
+  padding-top: 40px;
+  padding-bottom: 70px;
 }
 footer h1 {
   color: white;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+footer ul a {
+  color: #c8e7f0;
+  padding-bottom: 30px;
+}
+footer p {
+  padding-top: 30px;
+  border-top: 1px solid #c8e7f0;
 }
 footer a {
   color: #c8e7f0;
