@@ -168,8 +168,9 @@ footer .contatti address {
   display: inline;
   border-bottom: solid 1px #c8e7f0;
 }
+/* purtoppo il border-bottom che vedi qua sopra non sono riuscito a centrarlo al paragrafo sotto, come avrei dovuto */
 footer p {
-  padding-top: 30px;
+  padding-top: 60px;
 }
 footer p a {
   color: #c8e7f0;
